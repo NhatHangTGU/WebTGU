@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0bf6478-9b6f-4f11-a49c-631b7bf9921f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebTGU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebTGU.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0bf6478-9b6f-4f11-a49c-631b7bf9921f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +161,7 @@
       <updated>1649293581574</updated>
       <workItem from="1649293639401" duration="42000" />
       <workItem from="1649295727375" duration="743000" />
-      <workItem from="1649296674035" duration="302000" />
+      <workItem from="1649296674035" duration="606000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
